@@ -1,4 +1,5 @@
 Верстка: <br/>
+https://valandersi.github.io/Bazinger/ <br/>
 https://valandersi.github.io/Crowdme/ <br/>
 https://valandersi.github.io/magazin_BIRUANG/ <br/>
 https://valandersi.github.io/Zahnarztpraxis/ <br/>
