@@ -3,6 +3,7 @@
 https://valandersi.github.io/Barbershop/index.html <br/>
 https://valandersi.github.io/Barbershop/price.html <br/>
 https://valandersi.github.io/Barbershop/shop.html <br/>
+https://valandersi.github.io/Barbershop/item.html <br/>
 
 https://valandersi.github.io/Bazinger/ <br/>
 https://valandersi.github.io/Crowdme/ <br/>
